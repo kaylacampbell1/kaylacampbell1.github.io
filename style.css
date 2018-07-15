@@ -9,11 +9,12 @@
 }
 #headshot{
     width:20%;
+    border-radius:50%;
    
 }
 .mid{
-    background-color:white;
-    color:black;
+    background-color:black;
+    color:blue;
     align-items:center;
     font-size:50px;
     margin-top:5px;
@@ -36,3 +37,18 @@ body{
     background: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/4ATR6Ce6giltbo8pp/technology-background-digital-code-on-computer-screen-cg-animation_vwrndnqtg__F0000.png")
 }
 
+.about{
+    color: white;
+    font-size: 30px;
+}
+#f{
+font-family: 'Merienda', cursive;
+}
+#l{
+    
+font-family: 'Merienda', cursive;    
+}
+
+h2{
+    text-align:center;
+}
