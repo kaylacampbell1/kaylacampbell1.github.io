@@ -23,11 +23,11 @@
 .aboutme{
     border:1px solid black;       
 }
-a{
+.row a{
  text-decoration:none;
  color:white;
 }
-a :hover{
+.row a:hover{
     color:orange;
 }
 #pic{
@@ -53,6 +53,21 @@ h2{
     text-align:center;
 }
 #port{
-      color: white;
+      color: red;
     font-size: 20px;
+}
+#proj{
+    display:block;
+}
+.p{
+    font-size:30px;
+    color:white;
+    text-decoration:none;
+}
+.p:active{
+    color:#990406;
+}
+#ex{
+ font-size:35px;
+ color:#fb3503;
 }
